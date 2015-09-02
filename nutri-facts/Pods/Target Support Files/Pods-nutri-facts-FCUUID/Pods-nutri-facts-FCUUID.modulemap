@@ -1,0 +1,6 @@
+framework module FCUUID {
+  umbrella header "Pods-nutri-facts-FCUUID-umbrella.h"
+
+  export *
+  module * { export * }
+}

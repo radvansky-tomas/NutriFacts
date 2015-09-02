@@ -1,0 +1,6 @@
+framework module ASValueTrackingSlider {
+  umbrella header "Pods-nutri-facts-ASValueTrackingSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

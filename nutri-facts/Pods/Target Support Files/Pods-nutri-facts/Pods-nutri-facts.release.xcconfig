@@ -1,0 +1,9 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$PODS_FRAMEWORK_BUILD_PATH"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+OTHER_CFLAGS = $(inherited) -iquote "$PODS_FRAMEWORK_BUILD_PATH/AFNetworking.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/AMTagListView.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/ASValueTrackingSlider.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/FCUUID.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/Realm.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/RealmSwift.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/UICKeyChainStore.framework/Headers" -iquote "$PODS_FRAMEWORK_BUILD_PATH/UIFloatLabelTextField.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -ObjC -framework "AFNetworking" -framework "AMTagListView" -framework "ASValueTrackingSlider" -framework "FCUUID" -framework "Realm" -framework "RealmSwift" -framework "UICKeyChainStore" -framework "UIFloatLabelTextField"
+OTHER_LIBTOOLFLAGS = $(OTHER_LDFLAGS)
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_FRAMEWORK_BUILD_PATH = $(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Pods-nutri-facts
+PODS_ROOT = ${SRCROOT}/Pods

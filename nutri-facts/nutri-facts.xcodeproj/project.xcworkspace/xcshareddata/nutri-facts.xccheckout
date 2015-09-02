@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87F64BF8-98EA-4CE8-80C4-5896980EA6D0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>nutri-facts</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EBE5088729560A991E3D85874235FE04DE9FF238</key>
+		<string>https://github.com/radvansky-tomas/Engineering-Challenge-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>nutri-facts/nutri-facts.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EBE5088729560A991E3D85874235FE04DE9FF238</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/radvansky-tomas/Engineering-Challenge-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EBE5088729560A991E3D85874235FE04DE9FF238</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBE5088729560A991E3D85874235FE04DE9FF238</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Holmusk</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module AFNetworking {
+  umbrella header "Pods-nutri-facts-AFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
